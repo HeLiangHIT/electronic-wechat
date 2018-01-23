@@ -27,7 +27,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ``` bash
 # Clone this repository
-git clone https://github.com/geeeeeeeeek/electronic-wechat.git
+git clone https://github.com/HeLiangHIT/electronic-wechat.git 
 # Go into the repository
 cd electronic-wechat
 # Install dependencies and run the app
